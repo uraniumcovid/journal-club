@@ -1,0 +1,10 @@
+# git ignore for stuff we don't want to sync:
+
+# macOS stuff:
+**.DS_Store
+
+# other stuff we don't want to sync:
+private-notes/
+
+# feel free to add your own stuff private notes you want to not sync etc.
+
